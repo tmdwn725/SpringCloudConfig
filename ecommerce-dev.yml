@@ -1,5 +1,6 @@
 token:
   expiration_time: 864000000
-  secret: YourSuperSecretKeyForJwtHS512Algorithm
+  secret: YourSuperSecretKeyForJwtHS256AlgorithmDev
+
 gateway:
   ip: 127.0.0.1
